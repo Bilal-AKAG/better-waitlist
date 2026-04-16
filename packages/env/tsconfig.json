@@ -1,0 +1,3 @@
+{
+  "extends": "@better-waitlist/config/tsconfig.base.json"
+}
